@@ -19,7 +19,7 @@ export default function Navbar(props) {
                 {/* <a className="nav-link active" aria-current="page" href="/">Home</a> */}
               </li>
               <li className="nav-item">
-              <Link to="/about" className="nav-link">another</Link>
+              <Link to="/speechrecognization" className="nav-link">Another</Link>
                 {/* <a className="nav-link" href="/">About</a> */}
               </li>
 

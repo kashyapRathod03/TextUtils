@@ -57,7 +57,7 @@ function App() {
             </div>
           </>
           } />
-            <Route path="/about" element={
+            <Route path="/speechrecognization" element={
               <div className='container'>
                 <About mode={mode} showAlert={showAlert} heading="Try Textxutils - Word Counter,Character Counter"/>
               </div>
