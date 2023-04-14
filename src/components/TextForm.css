@@ -1,0 +1,17 @@
+.container1{
+    margin-top: 10vh;
+}
+
+.main-heading{
+    font-size: 4.5vh;
+    text-decoration: underline;
+}
+.inner-heading, h6{
+    margin: 3vh 0vh;
+    font-size: 3vh; 
+}
+p{
+    margin: 3vh 0vh;
+    font-size: 2vh;
+    text-align: justify;
+}
